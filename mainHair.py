@@ -15,7 +15,7 @@ def about():
 
 @app.route("/portfolio")
 def portfolio():
-    return render_template("GusNumber.py")
+    return render_template("GuesFunkcijos.py")
 
 
 if __name__ == '__main__':
